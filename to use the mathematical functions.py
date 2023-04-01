@@ -1,0 +1,15 @@
+#Write a Python program to use the mathematical functions.
+import math
+print("Value of abs(10)=",abs(10))
+print("Value of fabs(1-47.56)=",math.fabs(-47.56))
+print("Value of ceil(34.85)=",math.ceil(34.85))
+print("Value of floor(34.58)=",math.floor(34.85))
+print("Value of exp(2)=",math.exp(2))
+print("Value of fabs(-24.37)=",math.fabs(-24.37))
+print("Value of log(20)=",math.log(20))
+print("Value of log10(20)=",math.log10(20))
+print("Max Value of 20,4,39=",max(20,4,39))
+print("Min Value of 20,4,39=",min(20,4,39))
+print("Value of pow(20,2)=",math.pow(20,2))
+print("Value of round(5.456,1)=",round(5.456,1))
+print("Value of sqrt(16)=",math.sqrt(16))
