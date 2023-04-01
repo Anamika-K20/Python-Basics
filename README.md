@@ -24,6 +24,5 @@ The python supports both procedural oriented and object oriented programming lan
 
 9.Extensive Libraries
 
-
-BIBLIOGRAPHY
+# BIBLIOGRAPHY
 - PYTHON PROGRAMMING BY Ch Satyanarayana , M Radhika Mani and B N Jagadesh 
