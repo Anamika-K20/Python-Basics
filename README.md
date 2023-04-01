@@ -5,13 +5,21 @@ In python,declaration of a variable does not require the specification of the da
 
 The python supports both procedural oriented and object oriented programming language.In a single python program,both these programming language features can be used.So Python programming supports the top-down approach which allows the usage of functions.It also supports bottom-up approach which allows the usage of classes and objects.
 
-#Features of python:
-1.Unsophisticated /n
-2.Easy /n
-3.High-Level /n
-4.Portable /n
+# Features of python:
+1.Unsophisticated
+
+2.Easy
+
+3.High-Level
+
+4.Portable
+
 5.Interpreted
+
 6.Object Oriented
+
 7.Extensibility
+
 8.Embeddable
+
 9.Extensive Libraries
